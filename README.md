@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/safayet-hossain-4071a11b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safayet-hossain-4071a11b6" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sumonsheikhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/safayet.hossain.3994" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sumonsheikhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/safayet.hossain.3994" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/joysafayet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/joysafayet" height="30" width="40" /></a>
 </p>
 
