@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Flutter, Dart, Python**
+- 💬 Ask me about **Flutter, Dart, C++, Java**
 
-- 📫 How to reach me **safayethossain.cse@gmail.com**
+- 📫 How to reach me **flutterdev.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
