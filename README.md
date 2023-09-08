@@ -5,7 +5,7 @@
 
 <h1 align="center">I'm Sumon Sheikh</h1>
 <h3 align="center">A passionate App Developer from Bangladesh</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=28&pause=500&color=5E17EB&center=true&vCenter=true&multiline=true&width=1300&height=150&lines=Driven+by+my+unwavering+passion+for+technology%2C++I+am+committed+to+building;a+successful+career+in+the+professional+field.+Through+dedication%2C+hard+work%2C+and+unwavering+integrity%2C+;I+aim+to+achieve+excellence+and+contribute+to+the+advancement+of+the+industry.)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/LMpVMsVPmVEAAAAC/mobile-application-digital-marketing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumonsheikhdev&label=Profile%20views&color=0e75b6&style=flat" alt="sumonsheikhdev" /> </p>
 
