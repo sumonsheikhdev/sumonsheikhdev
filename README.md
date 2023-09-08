@@ -1,3 +1,7 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&weight=400&size=48&pause=1000&color=EB0000&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=80&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+There!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&weight=400&size=32&pause=1000&color=00B61E&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=50&lines=I'm+Mobasara+K.+Flutter+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=28&pause=500&color=5E17EB&center=true&vCenter=true&multiline=true&width=1300&height=150&lines=Driven+by+my+unwavering+passion+for+technology%2C++I+am+committed+to+building;a+successful+career+in+the+professional+field.+Through+dedication%2C+hard+work%2C+and+unwavering+integrity%2C+;I+aim+to+achieve+excellence+and+contribute+to+the+advancement+of+the+industry.)](https://git.io/typing-svg)
 <h2 align="center">Assalamualaikum Warahmatullahi Wabarakatuh 👋, </h2>
 <h1 align="center">I'm Sumon Sheikh</h1>
 <h3 align="center">A passionate App Developer from Bangladesh</h3>
