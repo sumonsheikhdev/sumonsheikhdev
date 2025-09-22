@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Fiverr**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Flutter, Dart, C++, Java**
+- 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **flutterdev.pro@gmail.com**
 
